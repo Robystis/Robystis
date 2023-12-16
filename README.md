@@ -1,101 +1,117 @@
+# Clinton-MD
 <div align="center">
-  👑<b>NICKMERLIN MD</b>👑</b>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=LONG LIVE+👑Clinton-MD👑;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Clinton;PUBLIC+RELESED; ...;Clinton-𝙼𝙳." alt="Typing SVG" /></a>
+  </p>
   
-<div align="center">
+<p align="center">
+<img src="https://i.imgur.com/uSOiZ9Z.jpg" width="300" height="300"/>
 </p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Clintom -MD+WHATSAPP+BOT" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Clinton™𝕏-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="'https://wa.me/254735342808ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+Clinton+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/254735342808ʜᴇʟʟᴏ+Clinton +uko+na+update+ya+Clinton+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
+  
+## ```Contact Me 💌``` 
 
+<p align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
+<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰 Clinton 🥰"><img src="https://img.shields.io/badge/Contact Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-   <p align="center">
-<a href="https://github.com/vajirabot1">
-    <img src="https://telegra.ph/file/09ab24679fb3a297a8905.jpg"  width="700px">
+ 
+
 </a>
-	   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+NICK+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+NICKS+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.NICK;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒NICKSON࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
-
-
-
-  
-<div align="center">    
-   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＣＬＩＣＫ+ＴＯ+ＳＣＡＮ+ＱＲ+ＣＯＤＥ)](https://git.io/typing-svg)
-
+<a href="https://github.com/owlai01/CROWN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 
-[![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://vajira-qrcode.vercel.app/)
-
-## You can bot make in vercel app below
-
-***Click [Vercel App](https://nickson-two.vercel.app/)***
-
-***Click [FORK](https://github.com/nicksonbot1/KING-nickson-MD-fork)***
+***Made on Earth by Clinton™𝕏 🦄***
 
 
-<b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
-    
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/KING-VAJIRA-MD)
+## FEATURES
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/vajirabot1/KING-VAJIRA-Md)
+𝑻𝒉𝒊𝒔 𝒊𝒔 𝒂 𝒉𝒊𝒈𝒉𝒍𝒚 𝒄𝒖𝒔𝒕𝒐𝒎𝒊𝒔𝒂𝒃𝒍𝒆 𝒔𝒊𝒎𝒑𝒍𝒆 𝒘𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝒃𝒐𝒕 𝒘𝒊𝒕𝒉 𝒈𝒓𝒐𝒖𝒑 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒇𝒆𝒂𝒕𝒖𝒓𝒆𝒔 𝒂𝒏𝒅 𝒇𝒆𝒘 𝒎𝒆𝒅𝒊𝒂 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝒂𝒏𝒅 𝒄𝒉𝒂𝒕𝒈𝒑𝒕 𝒄𝒐𝒖𝒓𝒕𝒆𝒔𝒚 𝒐𝒇 𝒐𝒑𝒆𝒏𝒂𝒊 𝑨𝑷𝑰𝒔.
+You will need an openai API key for AI features to work.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vajirabot1/KING-VAJIRA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94766943622&env[MONGODB_URI]&&env[OWNER_NAME]=Vajira&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=VAJIRA&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=vajira&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
-    
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
+## SET-UP
  
+
+
+1. Fork this repo
+   Tap here 👇
+  <br>
+<a href="https://github.com/xhclintohn/Clinton-MD/fork"><img title="Clint-MD" src="https://img.shields.io/badge/FORK Clinton-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+
+
+
+
+
+
+2. Link/Pair with WhatsApp
+
+
+
+ <br>
+<a 
+<h2 align="left">  <a href="https://replit.com/@xhclinton/Clinton-Pairing-v1?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
+
+
+
+
+
     
-<a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
+<h2 align="center">   
 
-</details>
 
-## SOCIAL MEDIA
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
+    
+<h2 align="center">   
 
-  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/@gamingewingyt6216).***
-  ***Click [`My Website`](http://vajira.com/)
 
-<b><details><summary>𝗠𝗢𝗡𝗚𝗢𝗗𝗕 𝗨𝗥𝗟𝗦</summary><br>
 
- 1)     mongodb+srv://connect:connect@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majority
+
+
+- Upload the creds.json that you received to the dreaded1 folder.
+
+- Connect your fork to any suitable cloud host and deploy.
+
+- Add the environmental variables in .env into your hosting site for bot to work.
+</h2>
  
- 2)     mongodb+srv://vajirabot1:vajirabot1@cluster0.j0d7xng.mongodb.net/?retryWrites=true&w=majority
+     
 
- 3)     mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
-
- 4)     mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
-
- 5)     mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
     
- 6)     mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu
-
-</details>
-
-## HELPERS
-[![USHANI](https://telegra.ph/file/1cacb07896ee14aa5920b.jpg?size=80)](https://github.com/dgxeon) | [![SAVIYA](https://telegra.ph/file/1046fee52c7a14d556793.jpg?size=100)](https://github.com/fantox001) | [![K ALPHA](https://telegra.ph/file/5e0bf1e4f7230ffe9cc37.jpg?size=109)](https://github.com/sampandey001) | [![DILSHAN](https://telegra.ph/file/4f43cf774e634e40129e5.jpg?size=80)](https://github.com/issa2001) | [![SUHAIL](https://telegra.ph/file/3b6537eb342b32de56558.jpg?size=80)](https://github.com/Prince-Mendiratta)
-----|----|----|----|----
-[USHANI](https://wa.me/94767898887) | [SAVIYA](https://wa.me/+94757309293) | [KING ALPHA](https://wa.me/+94715264791) | [DILSHAN](https://wa.me/94773277849) | [SUHAIL](https://wa.me/919971606684)
-Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
-
-## THE THREE STEPS TO MAKE THE BOT
-	
-📌 FIRST FORK THE REPO.
-
-📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
-
-📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.
-
-📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
-
-
-Nickson whatsapp bot is,
-
-   NICKSON whatsapp bot is an easy to use whatsapp robot.   |  NICKSON whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+ 
 
 
 
+Incase of any issues, Contact me
 
-[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/NICKSONbot1/DARK-VAJIRA)
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰 Clinton 🥰"><img src="https://img.shields.io/badge/Contact Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+JOIN SUPPORT GROUP 
+
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LQL2RFbHsdj6ExfmVxrTUD) 
+---------
+
+
+
+Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
+
+
+## License
+
+[MIT License](https://https://github.com/xhclintohn/Clinton-MD/blob/main/LICENSE)
+
+Copyright (c) 2024 Clinton-MD
 
