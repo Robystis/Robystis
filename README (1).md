@@ -36,7 +36,7 @@
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
 
-    
+    my no is 254727339417
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/KING-VAJIRA-MD)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/vajirabot1/KING-VAJIRA-Md)
