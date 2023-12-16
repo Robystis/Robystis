@@ -1,5 +1,5 @@
 <div align="center">
-  👑<b>KING VAJIRA MD</b>👑</b>
+  👑<b>NICKMERLIN MD</b>👑</b>
 
   
 <div align="center">
@@ -13,7 +13,7 @@
     <img src="https://telegra.ph/file/09ab24679fb3a297a8905.jpg"  width="700px">
 </a>
 	   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝙑𝘼𝙅𝙄𝙍𝘼+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚅𝙰𝙹𝙸𝚁𝙰+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.𝙑𝘼𝙅𝙄𝙍𝘼;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝕍𝔸𝕁𝕀ℝ𝔸࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+NICK+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+NICKS+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.NICK;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒NICKSON࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 
 
@@ -29,9 +29,9 @@
 
 ## You can bot make in vercel app below
 
-***Click [Vercel App](https://vajira-two.vercel.app/)***
+***Click [Vercel App](https://nickson-two.vercel.app/)***
 
-***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/nicksonbot1/KING-nickson-MD-fork)***
 
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
@@ -90,12 +90,12 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
 
 
-VAJIRA whatsapp bot is,
+Nickson whatsapp bot is,
 
-   VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
-
-
+   NICKSON whatsapp bot is an easy to use whatsapp robot.   |  NICKSON whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
-[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/vajirabot1/DARK-VAJIRA)
+
+
+[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/NICKSONbot1/DARK-VAJIRA)
 
