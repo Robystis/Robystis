@@ -1,19 +1,19 @@
 <div align="center">
-  👑<b>KING VAJIRA MD</b>👑</b>
+  👑<b>NICKSON-MUNENE`♣♥ MD</b>👑</b>
 
   
 <div align="center">
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+NICKSON+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
-<a href="https://github.com/vajirabot1">
+<a href="https://github.com/NICKSON bot1">
     <img src="https://telegra.ph/file/09ab24679fb3a297a8905.jpg"  width="700px">
 </a>
 	   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝙑𝘼𝙅𝙄𝙍𝘼+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚅𝙰𝙹𝙸𝚁𝙰+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.𝙑𝘼𝙅𝙄𝙍𝘼;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝕍𝔸𝕁𝕀ℝ𝔸࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+NICKSON +-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+NICKSON +𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.UTOPIAN;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ÑÎÇKMĒÈRLÎÑ࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 
 
@@ -29,19 +29,19 @@
 
 ## You can bot make in vercel app below
 
-***Click [Vercel App](https://vajira-two.vercel.app/)***
+***Click [Vercel App](https://ÑÎÇKMERLÎN-two.vercel.app/)***
 
-***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/ÑÎÇKMERLÎN bot1/NIck-NICKMERLIN-MD-fork)***
 
 https://telegra.ph/file/09ab24679fb3a297a8905.jpg
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
 
     
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/KING-VAJIRA-MD)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ÑÎÇKMERLÎN bot1/NICK-THE 😊★NICK OF TIME-MD)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/vajirabot1/KING-VAJIRA-Md)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vajirabot1/KING-VAJIRA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94766943622&env[MONGODB_URI]&&env[OWNER_NAME]=Vajira&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=VAJIRA&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=vajira&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vajirabot1/KING-NICK-MD &branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254718382875&env[MONGODB_URI]&&env[OWNER_NAME]=NICKa&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=254&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=NICKSON MUNENE &env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=NICKSON MUNENE&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
     
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
  
@@ -55,7 +55,7 @@ https://telegra.ph/file/09ab24679fb3a297a8905.jpg
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 
   ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/@gamingewingyt6216).***
-  ***Click [`My Website`](http://vajira.com/)
+  ***Click [`My Website`](http://NICKSON.com/)
 
 <b><details><summary>𝗠𝗢𝗡𝗚𝗢𝗗𝗕 𝗨𝗥𝗟𝗦</summary><br>
 
@@ -90,11 +90,11 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 📍 After deploying the bot some times comes mongodb error then you can take a new mondodb url or my url and put and restart again the bot. then the bot will run.
 
 
-VAJIRA whatsapp bot is,
+MERLIN whatsapp bot is,
 
-   VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
-
-
+   MERLIN whatsapp bot is an easy to use whatsapp robot.   |  NICKSONMUNENE IN KENYA  whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
-[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/vajirabot1/DARK-VAJIRA)
+
+nickmunene00@gmail.com
+[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/vajirabot1/DARK-NICKSONMD)
